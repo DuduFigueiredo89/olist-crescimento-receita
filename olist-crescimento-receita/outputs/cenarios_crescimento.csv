@@ -1,0 +1,4 @@
+﻿cenario,delta_pedidos,delta_ticket,gmv_base_brl,gmv_simulado_brl,incremento_gmv_brl,incremento_gmv_pct,natureza
+Conservador,0.05,0.0,7218125.12,7579031.376,360906.25600000005,5.000000000000004,Hipótese/sensibilidade; NÃO previsão
+Base,0.1,0.03,7218125.12,8178135.7609600015,960010.6409600014,13.300000000000022,Hipótese/sensibilidade; NÃO previsão
+Otimista,0.15,0.05,7218125.12,8715886.0824,1497760.9623999996,20.75,Hipótese/sensibilidade; NÃO previsão

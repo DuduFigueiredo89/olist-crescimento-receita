@@ -1,0 +1,17 @@
+# Ambientes e caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+
+# Bases transacionais originais (baixar do Olist separadamente)
+data/raw/*.csv
+data/raw/*.zip
+data/processed/
+
+# Temporários de ferramentas/office
+~$*
+.DS_Store
+Thumbs.db
+*.log
